@@ -1,0 +1,17 @@
+.row{
+    display: flex;
+    height: 30px;
+    background-color: darkmagenta;
+}
+.col-2, .col-3{
+    flex:1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: azure;
+    font-size: 20px;
+}
+.col-2{
+    flex:2;
+}
+.col-3{
+    flex: 3;
+}

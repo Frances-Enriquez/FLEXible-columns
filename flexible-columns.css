@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    background-color: #184980;
+    height: 90px;
+}
+.col{
+    flex: 1;
+    color:aliceblue;
+    font-size: 30px;
+}
